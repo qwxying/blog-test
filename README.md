@@ -15,19 +15,22 @@ Beautiful is better than ugly.
 * Sparse is better than dense.
 * Readability counts.
 ```python
-#python
+# C alike 
+# 对一个数组里的每个元素做个简单处理:
 i = 0
 while i < len(list):
    simple_process(list[i])
    i += 1
 ```
 ```python
-#python pro
+# python pro
+# 没毛病，够python吗？显然不够，我们都知道更python的应该用for i in range():
 for i in range(len(list)):
     simple_process(list(i))
 ```
 ```python
-#pythonic
+# pythonic
+# 这样够python了吧？很遗憾，推荐写法是下面这样：
 for element in list:
     simple_process(element)
 ```
