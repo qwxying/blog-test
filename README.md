@@ -5,9 +5,15 @@
 * 专业：电子信息工程；
 * 工作经历：3年国企，1年半BPO行业，非编程相关；
 * 编程背景：大学C语言基础（忘得差不多了），自学python一个月；
-
-### The Zen of Python
-Beautiful is better than ugly.
+  
+* 为什么想转前端：
+1. 目前行业工资低；
+2. 工作无聊、没有挑战性；
+3. 上升空间较小；
+4. 想转前端重回编程的世界，为以后的发展打开一扇大门。
+* 学习目标：3个月内成功转行前端。
+  ### The Zen of Python
+* Beautiful is better than ugly.
 * Explicit is better than implicit.
 * Simple is better than complex.
 * Complex is better than complicated.
@@ -34,9 +40,3 @@ for i in range(len(list)):
 for element in list:
     simple_process(element)
 ```
-* 为什么想转前端：
-1. 目前行业工资低；
-2. 工作无聊、没有挑战性；
-3. 上升空间较小；
-4. 想转前端重回编程的世界，为以后的发展打开一扇大门。
-* 学习目标：3个月内成功转行前端。
